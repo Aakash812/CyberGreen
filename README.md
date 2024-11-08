@@ -48,6 +48,3 @@ flowchart TB
 - Docker
 - Kubernetes
 
-## 📧 Contact
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle)
-```
